@@ -8,6 +8,10 @@
     "start": "webpack-dev-server .",
     "build": "Webpack ."
   },
+    "engines": {
+    "node": "20.5.1",
+    "npm":"10.2.0"
+  }
   "keywords": [],
   "author": "",
   "license": "ISC",
